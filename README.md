@@ -14,7 +14,7 @@ Make sure you have the following dependencies installed:
 
 ## You can install them using the following command:
 ```
-pip install youtube_dl scipy numpy transformers gradio
+pip install yt_dlp scipy numpy transformers gradio
 ```
 ## How to Use
 
