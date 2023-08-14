@@ -5,7 +5,7 @@ This is a simple Gradio app that allows you to input a YouTube URL, download its
 ## Prerequisites
 
 Make sure you have the following dependencies installed:
-- `youtube_dl`
+- `yt_dlp`
 - `scipy`
 - `numpy`
 - `transformers`
