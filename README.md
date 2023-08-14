@@ -30,7 +30,6 @@ cd youtube-audio-summarizer
 3. Run the Gradio app:
 ```
 python app.py
-
 ```
 
 4. Open a web browser and go to http://localhost:7860. You will see an input box where you can enter a YouTube URL.
