@@ -37,5 +37,5 @@ python app.py
 5. Enter a valid YouTube URL in the input box and press Enter.
 
 6. The app will process the audio, transcribe it, and provide a summary of the content.
-7. [An Internal Link](https://f7ed6aaf10d41ce839.gradio.live/)
+7. [Try This on HuggingFace](https://huggingface.co/spaces/nikhilkoche/Youtube_summarizer)
 
