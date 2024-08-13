@@ -1,4 +1,4 @@
-# YouTube Audio Summarizer
+# YouTube Summarizer
 
 This is a simple Gradio app that allows you to input a YouTube URL, download its audio, transcribe it, and generate a summary of the content using the Hugging Face Transformers library.
 
