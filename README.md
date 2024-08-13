@@ -5,16 +5,16 @@ This is a simple Gradio app that allows you to input a YouTube URL, download its
 ## Prerequisites
 
 Make sure you have the following dependencies installed:
-- `yt_dlp`
-- `scipy`
-- `numpy`
+- `youtube-transcript-api`
+- `langchain-community`
+- `torch`
 - `transformers`
-- `gradio`
+- `gradio==3.50`
 
 
 ## You can install them using the following command:
 ```
-pip install yt_dlp scipy numpy transformers gradio
+pip install -r requirements.txt
 ```
 ## How to Use
 
@@ -25,7 +25,7 @@ git clone https://github.com/nikhilkoche/youtube_summarizer.git
 
 2. Navigate to the cloned repository:
 ```
-cd youtube-audio-summarizer
+cd youtube_summarizer
 ```
 3. Run the Gradio app:
 ```
@@ -37,4 +37,5 @@ python app.py
 5. Enter a valid YouTube URL in the input box and press Enter.
 
 6. The app will process the audio, transcribe it, and provide a summary of the content.
+7. [An Internal Link](https://f7ed6aaf10d41ce839.gradio.live/)
 
