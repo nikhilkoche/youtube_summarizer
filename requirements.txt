@@ -1,5 +1,5 @@
-gradio
+gradio==3.50
 transformers
 torch
-yt_dlp
-ffmpeg-python
+youtube-transcript-api
+langchain-community
